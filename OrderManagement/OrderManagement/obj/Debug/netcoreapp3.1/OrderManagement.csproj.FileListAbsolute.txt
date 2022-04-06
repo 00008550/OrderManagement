@@ -1,0 +1,840 @@
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.exe
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.deps.json
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.runtimeconfig.json
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.runtimeconfig.dev.json
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.pdb
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.Views.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.Views.pdb
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.csprojAssemblyReference.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.AssemblyInfoInputs.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.AssemblyInfo.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.RazorAssemblyInfo.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.RazorAssemblyInfo.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.TagHelpers.input.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.TagHelpers.output.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.RazorCoreGenerate.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.RazorTargetAssemblyInfo.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.RazorTargetAssemblyInfo.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.Views.pdb
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\staticwebassets\OrderManagement.StaticWebAssets.Manifest.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\staticwebassets\OrderManagement.StaticWebAssets.xml
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.pdb
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.genruntimeconfig.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.csproj.CopyComplete
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Create.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\PagedList.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\X.PagedList.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Filter.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\libman.json
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\package-lock.json
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\package.json
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.csproj.CoreCompileInputs.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\CreateWiew.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Edit.cshtml.g.cs
+D:\My projects\DBSD\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Delete.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\appsettings.json
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\libman.json
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\package-lock.json
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\package.json
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.exe
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.deps.json
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.runtimeconfig.json
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.runtimeconfig.dev.json
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.pdb
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cors.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Identity.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Metadata.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Routing.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.Session.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.CSharp.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Caching.Memory.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.DependencyInjection.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Hosting.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Http.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Core.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Localization.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Abstractions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Console.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.ObjectPool.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Options.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.Primitives.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Extensions.WebEncoders.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.JSInterop.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Net.Http.Headers.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.Core.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.VisualBasic.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Primitives.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\Microsoft.Win32.Registry.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\mscorlib.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\netstandard.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.AppContext.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Buffers.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Collections.Concurrent.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Collections.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Collections.Immutable.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Collections.NonGeneric.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Collections.Specialized.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Annotations.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.DataAnnotations.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.EventBasedAsync.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.Primitives.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ComponentModel.TypeConverter.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Configuration.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Console.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Core.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Data.Common.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Data.DataSetExtensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Data.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Contracts.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Debug.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.DiagnosticSource.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.EventLog.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.FileVersionInfo.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Process.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.StackTrace.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tools.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.TraceSource.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Diagnostics.Tracing.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Drawing.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Drawing.Primitives.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Dynamic.Runtime.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Globalization.Calendars.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Globalization.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Globalization.Extensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.Brotli.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.FileSystem.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Compression.ZipFile.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.DriveInfo.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Primitives.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.FileSystem.Watcher.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.IsolatedStorage.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.MemoryMappedFiles.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Pipelines.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.Pipes.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.IO.UnmanagedMemoryStream.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Linq.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Linq.Expressions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Linq.Parallel.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Linq.Queryable.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Memory.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Http.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.HttpListener.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Mail.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.NameResolution.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.NetworkInformation.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Ping.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Primitives.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Requests.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Security.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.ServicePoint.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.Sockets.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.WebClient.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.WebHeaderCollection.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.WebProxy.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.Client.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Net.WebSockets.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Numerics.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Numerics.Vectors.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ObjectModel.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.DispatchProxy.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.ILGeneration.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Emit.Lightweight.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Extensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Metadata.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.Primitives.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Reflection.TypeExtensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Resources.Reader.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Resources.ResourceManager.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Resources.Writer.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Extensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Handles.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.InteropServices.WindowsRuntime.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Intrinsics.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Loader.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Numerics.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Formatters.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Json.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Primitives.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Runtime.Serialization.Xml.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.AccessControl.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Claims.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Algorithms.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Cng.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Csp.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Encoding.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Primitives.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.X509Certificates.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Cryptography.Xml.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Permissions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.Principal.Windows.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Security.SecureString.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ServiceModel.Web.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ServiceProcess.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.CodePages.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Text.Encoding.Extensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Text.Encodings.Web.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Text.RegularExpressions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Channels.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Overlapped.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Dataflow.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Extensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Tasks.Parallel.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Thread.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.ThreadPool.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Threading.Timer.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Transactions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Transactions.Local.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.ValueTuple.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Web.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Web.HttpUtility.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Windows.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Windows.Extensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.Linq.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.ReaderWriter.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.Serialization.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.XDocument.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlDocument.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.XmlSerializer.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\System.Xml.XPath.XDocument.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\refs\WindowsBase.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.Views.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\OrderManagement.Views.pdb
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\CsvHelper.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.JsonPatch.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\Newtonsoft.Json.Bson.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\PagedList.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\X.PagedList.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\X.PagedList.Mvc.Core.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\X.PagedList.Web.Common.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.csproj.AssemblyReference.cache
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.AssemblyInfoInputs.cache
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.AssemblyInfo.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.csproj.CoreCompileInputs.cache
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.MvcApplicationPartsAssemblyInfo.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.RazorAssemblyInfo.cache
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.RazorAssemblyInfo.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\staticwebassets\OrderManagement.StaticWebAssets.Manifest.cache
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\staticwebassets\OrderManagement.StaticWebAssets.xml
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\scopedcss\bundle\OrderManagement.styles.css
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.TagHelpers.input.cache
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.TagHelpers.output.cache
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.RazorCoreGenerate.cache
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Create.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\CreateWiew.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Delete.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Details.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Edit.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Filter.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.RazorTargetAssemblyInfo.cache
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.RazorTargetAssemblyInfo.cs
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.Views.pdb
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.csproj.CopyComplete
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.dll
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.pdb
+D:\My_projects\DBSD.CW2.8594.8550.7794\OrderManagement\OrderManagement\obj\Debug\netcoreapp3.1\OrderManagement.genruntimeconfig.cache

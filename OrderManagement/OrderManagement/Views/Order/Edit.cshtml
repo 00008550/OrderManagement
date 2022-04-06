@@ -1,0 +1,98 @@
+﻿@model OrderManagement.Models.Order
+
+@{
+    ViewData["Title"] = "Edit";
+}
+<div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+    <div class="md:flex md:items-center md:justify-between border-b border-gray-200 py-2 mt-2 mb-4">
+        <div class="flex-1 min-w-0">
+            <h4 class="text-base text-gray-500">
+                Order
+            </h4>
+            <h2 class="text-2xl font-bold text-gray-800">Details</h2>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-md-4">
+            <form asp-action="Edit">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+                <div class="form-group">
+                    <label asp-for="OrderId" class="control-label"></label>
+                    <input asp-for="OrderId" class="form-control" />
+                    <span asp-validation-for="OrderId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="StoreName" class="control-label"></label>
+                    <input asp-for="StoreName" class="form-control" />
+                    <span asp-validation-for="StoreName" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ManagerOrderId" class="control-label"></label>
+                    <input asp-for="ManagerOrderId" class="form-control" />
+                    <span asp-validation-for="ManagerOrderId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="CustomerOrderId" class="control-label"></label>
+                    <input asp-for="CustomerOrderId" class="form-control" />
+                    <span asp-validation-for="CustomerOrderId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="SellerOrderId" class="control-label"></label>
+                    <input asp-for="SellerOrderId" class="form-control" />
+                    <span asp-validation-for="SellerOrderId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ItemOrderId" class="control-label"></label>
+                    <input asp-for="ItemOrderId" class="form-control" />
+                    <span asp-validation-for="ItemOrderId" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="Price" class="control-label"></label>
+                    <input asp-for="Price" class="form-control" />
+                    <span asp-validation-for="Price" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="DateOfOrder" class="control-label"></label>
+                    <input asp-for="DateOfOrder" class="form-control" />
+                    <span asp-validation-for="DateOfOrder" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ImageUrl" class="control-label"></label>
+                    <input asp-for="ImageUrl" class="form-control" />
+                    <span asp-validation-for="ImageUrl" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ItemQuantity" class="control-label"></label>
+                    <input asp-for="ItemQuantity" class="form-control" />
+                    <span asp-validation-for="ItemQuantity" class="text-danger"></span>
+                </div>
+                <div class="form-group">
+                    <label asp-for="ItemQuality" class="control-label"></label>
+                    <input asp-for="ItemQuality" class="form-control" />
+                    <span asp-validation-for="ItemQuality" class="text-danger"></span>
+                </div>
+                <div class="form-group form-check">
+                    <label class="form-check-label">
+                        <input class="form-check-input" asp-for="Delivered" /> @Html.DisplayNameFor(model => model.Delivered)
+                    </label>
+                </div>
+                <div class="form-group">
+                    <input type="submit" value="Save" class="btn btn-primary" />
+                </div>
+            </form>
+        </div>
+
+        <hr class="mt-5" />
+        <div class="pt-5">
+            <div class="flex justify-end">
+                <a asp-action="Index" type="button" class="bg-white py-2 px-4 border border-gray-300 rounded-md shadow-sm text-sm font-medium text-gray-700 hover:bg-gray-50 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                    Back to list
+                </a>
+                
+            </div>
+        </div
+    </div>
+
+    @section Scripts {
+        @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    }

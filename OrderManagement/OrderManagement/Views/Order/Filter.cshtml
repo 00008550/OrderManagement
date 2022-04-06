@@ -1,0 +1,328 @@
+﻿@model OrderManagement.Models.OrderFilterViewModel
+@using X.PagedList;
+@using  X.PagedList.Web.Common;
+@using X.PagedList.Mvc.Core;
+
+@{
+    ViewData["Title"] = "Filter";
+}
+<div class="max-w-7xl mx-auto px-2 sm:px-6 lg:px-8">
+    <div class="md:flex md:items-center md:justify-between border-b border-gray-200 py-2 mt-2 mb-4">
+        <div class="flex-1 min-w-0">
+            <h4 class="text-base text-gray-500">
+                Orders
+            </h4>
+            <h2 class="text-2xl font-bold text-gray-800">Filtering</h2>
+        </div>
+    </div>
+    <div class="bg-white shadow px-4 py-5 sm:rounded-lg sm:p-6">
+        <div class="md:grid md:gap-6">
+            <div class="">
+                <h3 class="text-lg font-medium leading-6 text-gray-900">Filter store Information</h3>
+                <p class="mt-1 text-sm text-gray-500">
+                    Please fill the all required fields
+                </p>
+            </div>
+            <div class="mt-5 md:mt-0">
+                <form asp-action="Filter">
+                    <div asp-validation-summary="ModelOnly" class="text-red"></div>
+                    <div class="flex items-end space-x-5">
+                        <div class="flex-1">
+                            <label asp-for="StoreName" class="block text-sm font-medium text-gray-700">Store name</label>
+                            <input type="text" asp-for="StoreName" autocomplete="off" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
+                            <span asp-validation-for="StoreName" class="text-red"></span>
+                        </div>
+
+                        <div class="flex-1">
+                            <label asp-for="ManagerOrderId" class="block text-sm font-medium text-gray-700">Manager ID</label>
+                            <input type="number" asp-for="ManagerOrderId" autocomplete="off" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
+                            <span asp-validation-for="ManagerOrderId" class="text-red"></span>
+                        </div>
+
+                        <div class="flex-1">
+                            <label asp-for="CustomerOrderId" class="block text-sm font-medium text-gray-700">Customer ID</label>
+                            <input type="number" asp-for="CustomerOrderId" autocomplete="off" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
+                            <span asp-validation-for="CustomerOrderId" class="text-red"></span>
+                        </div>
+
+                        <div class="flex-1">
+                            <label asp-for="SellerOrderId" class="block text-sm font-medium text-gray-700">Seller ID</label>
+                            <input type="number" asp-for="SellerOrderId" autocomplete="off" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
+                            <span asp-validation-for="SellerOrderId" class="text-red"></span>
+                        </div>
+
+                        <div class="flex-1">
+                            <label asp-for="ItemOrderId" class="block text-sm font-medium text-gray-700">Item ID</label>
+                            <input type="number" asp-for="ItemOrderId" autocomplete="off" class="mt-1 focus:ring-indigo-500 focus:border-indigo-500 block w-full shadow-sm sm:text-sm border-gray-300 rounded-md">
+                            <span asp-validation-for="ItemOrderId" class="text-red"></span>
+                        </div>
+
+                        <div class="flex-1">
+                            <button type="submit" class="w-full inline-flex justify-center py-2 px-4 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                                Filter
+                            </button>
+                        </div>
+                    </div>
+
+                </form>
+            </div>
+
+
+        </div>
+    </div>
+
+    <div class="bg-white px-4 py-5 border border-b-0 rounded-md border-gray-200 sm:px-6">
+        <div class="-ml-4 -mt-2 flex items-center justify-between flex-wrap sm:flex-nowrap">
+            <div class="ml-4 mt-2">
+                <h3 class="text-lg leading-6 font-medium text-gray-900">
+                    Data Export
+                </h3>
+            </div>
+            <div class="ml-4 mt-2 flex-shrink-0">
+                <button type="button" class="ml-3 relative inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                    @Html.ActionLink(
+           "Export to JSON",
+           "ExportJson",
+           new
+           {
+               StoreName = Model.StoreName,
+               ManagerOrderId = Model.ManagerOrderId,
+               CustomerOrderId = Model.CustomerOrderId,
+               SellerOrderId = Model.SellerOrderId,
+               ItemOrderId = Model.ItemOrderId,
+           }
+       )
+                </button>
+
+                <button type="button" class="ml-3 relative inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                    @Html.ActionLink(
+            "Export to XML",
+            "ExportXml",
+            new
+            {
+                StoreName = Model.StoreName,
+                ManagerOrderId = Model.ManagerOrderId,
+                CustomerOrderId = Model.CustomerOrderId,
+                SellerOrderId = Model.SellerOrderId,
+                ItemOrderId = Model.ItemOrderId
+            }
+        )
+                </button>
+                <button type="button" class="ml-3 relative inline-flex items-center px-4 py-2 border border-transparent shadow-sm text-sm font-medium rounded-md text-white bg-indigo-600 hover:bg-indigo-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-indigo-500">
+                    @Html.ActionLink(
+           "Export to CSV",
+           "ExportCsv",
+           new
+           {
+               StoreName = Model.StoreName,
+               ManagerOrderId = Model.ManagerOrderId,
+               CustomerOrderId = Model.CustomerOrderId,
+               SellerOrderId = Model.SellerOrderId,
+               ItemOrderId = Model.ItemOrderId
+           }
+       )
+                </button>
+            </div>
+        </div>
+    </div>
+    <div class="flex flex-col">
+        <div class="-my-2 overflow-x-auto sm:-mx-6 lg:-mx-8">
+            <div class="py-2 align-middle inline-block min-w-full sm:px-6 lg:px-8">
+                <div class="shadow overflow-hidden border-b border-gray-200 sm:rounded-lg">
+                    <table class="min-w-full divide-y divide-gray-200 shadow">
+                        <thead class="bg-gray-50">
+                            <tr>
+                                <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                                    @Html.DisplayNameFor(model => model.Orders.First().OrderId)
+                                </th>
+                                <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                                    @Html.ActionLink(
+                       @Html.DisplayNameFor(model => model.Orders.First().StoreName),
+                       "Filter",
+                       new
+                            {
+                           sortColumn = "StoreName",
+                           sortDirection = Model.SortDirection,
+                           page = Model.CurrentPage,
+                           StoreName = Model.StoreName,
+                           ManagerOrderId = Model.ManagerOrderId,
+                           CustomerOrderId = Model.CustomerOrderId,
+                           SellerOrderId = Model.SellerOrderId,
+                           ItemOrderId = Model.ItemOrderId
+                       }
+                    )
+                                </th>
+                                <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                                    @Html.ActionLink(
+                       @Html.DisplayNameFor(model => model.Orders.First().ManagerOrderId),
+                       "Filter",
+                       new
+                            {
+                           sortColumn = "ManagerOrderId",
+                           sortDirection = Model.SortDirection,
+                           page = Model.CurrentPage,
+                           StoreName = Model.StoreName,
+                           ManagerOrderId = Model.ManagerOrderId,
+                           CustomerOrderId = Model.CustomerOrderId,
+                           SellerOrderId = Model.SellerOrderId,
+                           ItemOrderId = Model.ItemOrderId
+                       }
+                    )
+                                </th>
+                                <th scope="col" class="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                                    @Html.ActionLink(
+                         @Html.DisplayNameFor(model => model.Orders.First().CustomerOrderId),
+                         "Filter",
+                         new
+                              {
+                             sortColumn = "CustomerOrderId",
+                             sortDirection = Model.SortDirection,
+                             page = Model.CurrentPage,
+                             StoreName = Model.StoreName,
+                             ManagerOrderId = Model.ManagerOrderId,
+                             CustomerOrderId = Model.CustomerOrderId,
+                             SellerOrderId = Model.SellerOrderId,
+                             ItemOrderId = Model.ItemOrderId
+                         }
+                      )
+                                </th>
+                                <th>
+                                    @Html.ActionLink(
+                                                    @Html.DisplayNameFor(model => model.Orders.First().SellerOrderId),
+                                                    "Filter",
+                                                    new
+                                                         {
+                                                        sortColumn = "SellerOrderId",
+                                                        sortDirection = Model.SortDirection,
+                                                        page = Model.CurrentPage,
+                                                        StoreName = Model.StoreName,
+                                                        ManagerOrderId = Model.ManagerOrderId,
+                                                        CustomerOrderId = Model.CustomerOrderId,
+                                                        SellerOrderId = Model.SellerOrderId,
+                                                        ItemOrderId = Model.ItemOrderId
+                                                    }
+                                                 )
+                                </th>
+                                <th scope="col" class="relative px-6 py-3">
+                                    @Html.ActionLink(
+                       @Html.DisplayNameFor(model => model.Orders.First().ItemOrderId),
+                       "Filter",
+                       new
+                            {
+                           sortColumn = "ItemOrderId",
+                           sortDirection = Model.SortDirection,
+                           page = Model.CurrentPage,
+                           StoreName = Model.StoreName,
+                           ManagerOrderId = Model.ManagerOrderId,
+                           CustomerOrderId = Model.CustomerOrderId,
+                           SellerOrderId = Model.SellerOrderId,
+                           ItemOrderId = Model.ItemOrderId
+                       }
+                    )
+                                </th>
+
+                                <th scope="col" class="relative px-6 py-3">
+                                    @Html.DisplayNameFor(model => model.Orders.First().Price)
+                                </th>
+                                <th scope="col" class="relative px-6 py-3">
+                                    @Html.DisplayNameFor(model => model.Orders.First().DateOfOrder)
+                                </th>
+                                <th scope="col" class="relative px-6 py-3">
+                                    @Html.DisplayNameFor(model => model.Orders.First().ImageUrl)
+                                </th>
+                                <th scope="col" class="relative px-6 py-3">
+                                    @Html.DisplayNameFor(model => model.Orders.First().ItemQuantity)
+                                </th>
+                                <th scope="col" class="relative px-6 py-3">
+                                    @Html.DisplayNameFor(model => model.Orders.First().ItemQuality)
+                                </th>
+                                <th scope="col" class="relative px-6 py-3">
+                                    @Html.DisplayNameFor(model => model.Orders.First().Delivered)
+                                </th>
+                                <th></th>
+                            </tr>
+                        </thead>
+                        <tbody class="bg-white divide-y divide-gray-200">
+                            @foreach (var item in Model.Orders)
+                            {
+                            <tr>
+
+                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                                    @Html.DisplayFor(modelItem => item.OrderId)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                                    @Html.DisplayFor(modelItem => item.StoreName)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                                    @Html.DisplayFor(modelItem => item.ManagerOrderId)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                                    @Html.DisplayFor(modelItem => item.CustomerOrderId)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                                    @Html.DisplayFor(modelItem => item.SellerOrderId)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                                    @Html.DisplayFor(modelItem => item.ItemOrderId)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                                    @Html.DisplayFor(modelItem => item.Price)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                                    @Html.DisplayFor(modelItem => item.DateOfOrder)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                                    @Html.DisplayFor(modelItem => item.ImageUrl)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                                    @Html.DisplayFor(modelItem => item.ItemQuantity)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                                    @Html.DisplayFor(modelItem => item.ItemQuality)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-sm text-gray-500">
+                                    @Html.DisplayFor(modelItem => item.Delivered)
+                                </td>
+                                <td class="px-6 py-4 whitespace-nowrap text-right text-sm font-medium">
+                                    @Html.ActionLink("Edit", "Edit", new { id = item.OrderId }) |
+                                    @Html.ActionLink("Details", "Details", new { id = item.OrderId }) |
+                                    @Html.ActionLink("Delete", "Delete", new { id = item.OrderId })
+                                </td>
+                            </tr>
+                            }
+
+                            <!-- More people... -->
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    @Html.PagedListPager(
+        Model.Orders,
+        page => Url.Action(
+                            "Filter",
+                            new
+                            {
+                                page,
+                                StoreName = Model.StoreName,
+                                ManagerOrderId = Model.ManagerOrderId,
+                                CustomerOrderId = Model.CustomerOrderId,
+                                SellerOrderId = Model.SellerOrderId,
+                                ItemOrderId = Model.ItemOrderId
+                            }
+                           ),
+         new PagedListRenderOptionsBase()
+         {
+             UlElementClasses = new List<string> { "mt-3 flex space-x-3" },
+             LiElementClasses = new List<string>
+                    { "px-3 py-2", "border rounded-lg" }
+         }
+        )
+
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
